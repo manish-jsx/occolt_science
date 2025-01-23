@@ -1,0 +1,2 @@
+[18-Jan-2025 13:23:54 UTC] PHP Fatal error:  Cannot use App\Models\GenralEnquiry as GenralEnquiry because the name is already in use in /home/akslearn/occultscience.akslearning.in/app/Http/Controllers/admin/AdminDashbordController.php on line 10
+[18-Jan-2025 13:24:09 UTC] PHP Fatal error:  Cannot use App\Models\ContactUs as ContactUs because the name is already in use in /home/akslearn/occultscience.akslearning.in/app/Http/Controllers/admin/AdminDashbordController.php on line 10
